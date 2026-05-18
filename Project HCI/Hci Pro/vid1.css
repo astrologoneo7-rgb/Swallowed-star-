@@ -1,0 +1,116 @@
+header{
+  background-color: #2563eb;
+color: white;
+padding: 10px;
+margin-top: 30px;
+border-radius: 0px;
+  
+}
+
+h1{
+  color:white;
+  background-color: ;
+  text-align: center;
+  font-size: 35px;
+  letter-spacing: 2px;
+  padding: 0px;
+  border-radius: 30px;
+  margin: 20px;
+  margin-bottom: 50px;
+  
+  
+}
+ 
+p{
+  color:white;
+  margin:25px;
+}
+
+body{
+  background-color: black;
+}
+
+.center{
+  
+  display: block;
+margin-left: auto;
+margin-right: auto;
+  margin-top: 100px;
+}
+
+
+.backButton{
+  background-color: #76D2DB;
+  color: white;
+  padding: 10px;
+  margin: 20px;
+  border-radius: 15px;
+  font-weight: 3px;
+  
+}
+
+h3{
+  color:white;
+  margin:25px;
+  text-align: left;
+  
+}
+
+.vidtitle{
+  background-color: #DB1A1A;
+  padding: 1px;
+  margin-bottom: 25px;
+}
+
+
+h5{
+  color:white;
+  font-weight: bold;
+  font-size: 20px;
+  margin:left;
+  margin-bottom: 0px;
+}
+
+.c{
+  margin: left;
+  margin-bottom: 300px;
+}
+
+
+
+h4{
+  color:white;
+  margin-left: 25px;
+  margin: 0px;
+}
+
+strong{
+  color: red;
+  font-size: 25px;
+  letter-spacing: 1px;
+  
+}
+
+.myt{
+  margin-left: 25px;
+  magin: 0px;
+}
+
+.text{
+  margin-top: 100px;
+  font-size: 20px;
+}
+
+
+.text2{
+  font-size: 20px;
+}
+
+
+footer {
+text-align: center;
+background-color: #333;
+color: white;
+padding: 20px;
+margin-top: 30px;
+border-radius: 5px;

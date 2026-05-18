@@ -1,0 +1,127 @@
+header{
+  background-color: #2563eb;
+color: white;
+padding: 10px;
+margin-top: 30px;
+border-radius: 0px;
+  
+  
+}
+
+
+h1{ 
+  color:white;
+  background-color: ;
+  text-align: center;
+  font-size: 35px;
+  letter-spacing: 2px;
+  padding: 0px;
+  border-radius: 30px;
+  margin: 0px;
+  margin-bottom: 0px;
+}
+
+a{
+  color:darkviolet;
+  margin-top: 300px;
+}
+
+body {
+   background-color:black;
+   font-family: Arial, sans-serif;
+  padding: 5px;
+  
+}
+
+p{
+  color:white;
+  font-size: 18px;
+  margin: 25px;
+  
+}
+
+h3{
+  text-align: left;
+  color: white;
+  margin: 25px;
+}
+
+img{
+  margin-top: 50px;
+  max-width: 300px;
+  height: auto;
+  border-radius: 10px;
+  
+}
+
+.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+button{
+  background-color: #2563eb;
+  color: white;
+  padding: 14px 32px;
+  border: none;
+  border-radius: 12px;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s ease;
+  margin: 30px;
+  margin-left: 115px;
+  
+}
+
+h4{
+  color:white;
+  margin-left: 25px;
+  margin: 0px;
+}
+
+
+
+
+strong{
+  color: red;
+  font-size: 25px;
+  letter-spacing: 1px;
+}
+
+
+.neo{
+  margin-bottom: 800px;
+  
+}
+
+.myt{
+  
+  margin-left: 25px;
+  magin: 0px;
+  
+}
+
+
+.text{
+  margin-top: 100px;
+  font-size: 20px;
+  
+  
+}
+
+.text2{
+  font-size: 20px;
+}
+
+
+footer {
+text-align: center;
+background-color: #333;
+color: white;
+padding: 20px;
+margin-top: 30px;
+border-radius: 5px;
+  
+}
